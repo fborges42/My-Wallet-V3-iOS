@@ -1,8 +1,8 @@
 /* Class = "UIButton"; normalTitle = "Backup funds again"; ObjectID = "1Hq-6D-ut1"; */
-"1Hq-6D-ut1.normalTitle" = "Fundos de backup novamente";
+"1Hq-6D-ut1.normalTitle" = "Backup de fundos novamente";
 
 /* (No Commment) */
-"1Hq-6D-ut1.text" = "Fundos de backup novamente";
+"1Hq-6D-ut1.text" = "Backup de fundos novamente";
 
 /* (No Commment) */
 "3kJ-3U-lFe.text" = "Por favor, tente novamente";
@@ -17,7 +17,7 @@
 "07q-RX-CeI.text" = "Por favor, tente novamente";
 
 /* Class = "UINavigationItem"; title = "Backup Wallet"; ObjectID = "9A7-TT-PzN"; */
-"9A7-TT-PzN.title" = "Fundos de reserva";
+"9A7-TT-PzN.title" = "Backup de fundos";
 
 /* Class = "UILabel"; text = "Oh no! You haven't backed up your funds yet."; ObjectID = "9Hu-uO-gJl"; */
 "9Hu-uO-gJl.text" = "Ah não! Você não fez backup seus fundos ainda.";
